@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="K5eOA4L-gDZK-XUdb7QI">
-    <mxGraphModel>
+    <mxGraphModel dx="1444" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-1" value="Doenças Cardiacas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-2" value="&amp;nbsp;Antropometria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-4" value="Sexo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="562" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-8" value="Idade" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="615" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-9" value="Peso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="660" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-10" value="Altura" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="650" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-12" value="medida da cintura" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-13" value="IMC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xORFpnPC-fu5SrFgAWwJ-17" value="medida do quadril" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="90" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
