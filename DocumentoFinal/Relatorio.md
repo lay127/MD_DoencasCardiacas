@@ -1,8 +1,12 @@
 # Doenças Cardiacas
 
-### Introdução
+## Introdução
 
 *Inserir introdução do trabalho*
+
+## Trabalhos Relacionados
+
+*Inserir Trabalhos Relacionados do trabalho*
 
 ### Gráficos:
 
@@ -27,9 +31,7 @@
 ![Gráfico por estado com Valores Relativos](/Gráficos/Imagens/grafico_doencas_coracao_relativo_regiao.png)
 
 
-### Teste Qi-quadrado
-
-# Qi-quadrado
+## Teste Qi-quadrado
 
 Valores Absolutos Tabela completa:
 
@@ -42,7 +44,7 @@ Valores Absolutos Tabela completa:
 | Sul | 10644 | 828 | **11.472** |
 | Total: | **86.114** | **4.732** | **90.846** |
 
-Valores:
+#### Comparação de Regiões:
 
 Valores observados: Centro-Oeste x Nordeste
 
@@ -254,7 +256,9 @@ Valor p: 0.010670294679872934
 Grau de liberdade: 1  
 **H0 Aceita**  
 
-Com base na análise do Teste de Aderência de Proporções Qui-Quadrado, conclui-se que, ao serem comparadas duas regiões brasileiras por vez, a hipótese nula foi rejeitada na maioria das comparações (8/10). Isto é, a maior parte das amostras de população, com e sem doença de coração, não são complementares nem estatisticamente equivalentes. Entretanto, em duas correlações específicas, a hipótese nula foi aceita, inferindo que ‘Nordeste e Centro-Oeste’ e ‘Sudeste e Sul’ são regiões que possuem amostras proporcionalmente equivalentes.
+Com base na análise do Teste de Aderência de Proporções Qui-Quadrado, conclui-se que, ao serem comparadas duas regiões brasileiras por vez, a hipótese nula foi rejeitada na maioria das comparações (8/10). Isto é, a maior parte das amostras de população, com e sem doença de coração, não são complementares nem estatisticamente equivalentes. Entretanto, em duas correlações específicas, a hipótese nula foi aceita, inferindo que ‘Centro-Oeste e Nordeste’ e ‘Sudeste e Sul’ são regiões que possuem amostras proporcionalmente equivalentes.
+
+*Posso assumir que ‘Centro-Oeste e Nordeste’ e ‘Sudeste e Sul’ são semelhantes por isso podemos juntar essas regiões. Temos que escolher o alvo com mais casos, ou seja, o ‘Sudeste e Sul’*
 
 ### Gráficos por Idade por Região
 
@@ -265,3 +269,21 @@ Com base na análise do Teste de Aderência de Proporções Qui-Quadrado, conclu
 #### Valor acumulativo
 
 ![Gráfico de idade com Valores Acumulativo](/Gráficos/Imagens/grafico_doencas_coracao_acumulado_idade_media_desvio.png)
+
+## Bibliografia
+
+¹ DA SILVA BARBOSA, Neyri Karla Gomes et al. Perfil de pacientes adultos com doenças cardiovasculares no Brasil: uma revisão integrativa. Revista Eletrônica da Estácio Recife, v. 6, n. 2, 2020.
+
+² FERRO, Denise et al. Perfil sociodemográfico e clínico do paciente com doença crônica atendido em um serviço de emergência. Research, Society and Development, v. 10, n. 7, p. e12010716263-e12010716263, 2021.
+
+³ CONSTANTINI, Pamela Judith Silva et al. Avaliação da hemodinâmica em pacientes com doença cardíaca persistente: uma revisão bibliográfica. Brazilian Journal of Health Review, v. 6, n. 3, p. 13942-13960, 2023.
+
+⁴ MOURA, Alissa Raquel Amoras et al. Avaliação do consumo alimentar e associação com o diagnóstico clínico e fatores de risco em pacientes cardiopatas. Revista Eletrônica Acervo Saúde, v. 13, n. 2, p. e6116-e6116, 2021.
+
+⁵ CASTRO, Luiza Carla Vidigal et al. Nutrição e doenças cardiovasculares: os marcadores de risco em adultos. Revista de Nutrição, v. 17, p. 369-377, 2004.
+
+⁶ GOMES, Crizian Saar et al. Fatores associados às doenças cardiovasculares na população adulta brasileira: Pesquisa Nacional de Saúde, 2019. Revista brasileira de Epidemiologia, v. 24, p. e210013, 2021.
+
+⁷ MACENO, Lindhisey Kianny; GARCIA, M. dos S. Fatores de risco para o desenvolvimento de doenças cardiovasculares em jovens adultos/Risk factors for the development of cardiovascular diseases in young adults. Brazilian Journal of Health Review, v. 5, n. 1, p. 2820-2842, 2022.
+
+⁸ TONH'Á, Otávio Augusto Prado et al. Desafios e estratégias na prevenção de doenças cardiovasculares na era moderna. Revista Ibero-Americana de Humanidades, Ciências e Educação, v. 9, n. 7, p. 1140-1150, 202
