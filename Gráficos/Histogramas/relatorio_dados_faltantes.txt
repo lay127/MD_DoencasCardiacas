@@ -3,111 +3,151 @@ RELATÓRIO DE DADOS FALTANTES
 
 ESTATÍSTICAS GERAIS:
 ------------------------------------------------------------
-Total de variáveis analisadas: 90
-Variáveis sem dados faltantes: 83
-Variáveis com dados faltantes: 7
-Total de valores faltantes: 19,972
-Percentual total de dados faltantes: 0.91%
+Total de variáveis analisadas: 134
+Variáveis sem dados faltantes: 50
+Variáveis com dados faltantes: 84
+Total de valores faltantes: 1,366,796
+Percentual total de dados faltantes: 41.82%
 
 VARIÁVEIS SEM DADOS FALTANTES:
 ------------------------------------------------------------
-V0026 - Tipo de situação censitária
-V0031 - Tipo de área
-B001 - O seu domicílio está cadastrado na unidade de saúde da família 
+V0026 - Tipo de situaï¿½ï¿½o censitï¿½ria
+V0031 - Tipo de ï¿½rea
+B001 - O seu domicï¿½lio estï¿½ cadastrado na unidade de saï¿½de da famï¿½lia 
 C006 - Sexo
-C008 - Idade do morador na data de referência
-C009 - Cor ou raça
-C011 - Qual é o estado civil de ___? 
-E006011 - Na semana de ___ a ___ (semana de referência), por que motivo ___ estava afastado desse trabalho
-E008 - A doença ou acidente foi relacionado ao trabalho?
-F001011 - Em (mês da pesquisa) ___ recebia normalmente rendimento de aposentadoria ou pensão de instituto de previdência federal (INSS), estadual, municipal, ou do governo federal, estadual, municipal?
-F007011 - Em (mês da pesquisa), ___ recebia normalmente rendimento de pensão alimentícia, doação ou mesada em dinheiro de pessoa que não morava no domicílio?
-F008011 - Em (mês da pesquisa), ___ recebia normalmente rendimento de aluguel ou arrendamento?
-VDF001 - Em (mês da pesquisa), _______ recebia normalmente algum juro de caderneta de poupança e de outras aplicações financeiras, dividendos, programas sociais, seguro-desemprego, seguro defeso ou outros rendimentos? 
-C00301 - Número de ordem do morador
-J001 - De um modo geral, como é o estado de saúde de________
-J00101 - Considerando saúde como um estado de bem-estar físico e mental, e não somente a ausência de doenças, como é o estado de saúde de _____________? 
-J002 -  Nas duas últimas semanas, ___ deixou de realizar quaisquer de suas atividades habituais (trabalhar, ir à escola, brincar, afazeres domésticos etc.) por motivo da própria saúde
-J00402 -  Qual foi o principal motivo de saúde que impediu ___ de realizar suas atividades habituais nas duas últimas semanas 
-J00404 - Este motivo de saúde estava relacionado ao trabalho
-J007 - Algum médico já deu o diagnóstico de alguma doença crônica, física ou mental, ou doença de longa duração (de mais de 6 meses de duração) a ___
-J00801 - Alguma dessas doenças limita de alguma forma suas atividades habituais (trabalhar, ir à escola, brincar, afazeres domésticos, etc.)
-J01101 - Quando ____ consultou um médico pela última vez
-N00101 - Considerando saúde como um estado de bem-estar físico e mental, e não somente a ausência de doenças, como você avalia o seu estado de saúde? 
-N010 - Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?
-N011 - Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? 
-N012 - Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? 
-N016 - Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), pra baixo ou sem perspectiva?
-P00901 - Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, cará ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha? 
+C008 - Idade do morador na data de referï¿½ncia
+C009 - Cor ou raï¿½a
+C011 - Qual ï¿½ o estado civil de ___? 
+D00201 - Frequenta escola ou creche
+E001 - Na semana de___ a___ (semana de referï¿½ncia), ___ trabalhou ou estagiou, durante pelo menos uma hora, em alguma atividade remunerada em dinheiro
+F001011 - Em (mï¿½s da pesquisa) ___ recebia normalmente rendimento de aposentadoria ou pensï¿½o de instituto de previdï¿½ncia federal (INSS), estadual, municipal, ou do governo federal, estadual, municipal?
+F007011 - Em (mï¿½s da pesquisa), ___ recebia normalmente rendimento de pensï¿½o alimentï¿½cia, doaï¿½ï¿½o ou mesada em dinheiro de pessoa que nï¿½o morava no domicï¿½lio?
+F008011 - Em (mï¿½s da pesquisa), ___ recebia normalmente rendimento de aluguel ou arrendamento?
+VDF001 - Em (mï¿½s da pesquisa), _______ recebia normalmente algum juro de caderneta de poupanï¿½a e de outras aplicaï¿½ï¿½es financeiras, dividendos, programas sociais, seguro-desemprego, seguro defeso ou outros rendimentos? 
+G059 - ___ usa algum aparelho de auxï¿½lio para se locomover? 
+I00102 - tem algum plano de saï¿½de mï¿½dico particular, de empresa ou ï¿½rgï¿½o pï¿½blico?
+C00301 - Nï¿½mero de ordem do morador
+J001 - De um modo geral, como ï¿½ o estado de saï¿½de de________
+J00101 - Considerando saï¿½de como um estado de bem-estar fï¿½sico e mental, e nï¿½o somente a ausï¿½ncia de doenï¿½as, como ï¿½ o estado de saï¿½de de _____________? 
+J002 -  Nas duas ï¿½ltimas semanas, ___ deixou de realizar quaisquer de suas atividades habituais (trabalhar, ir ï¿½ escola, brincar, afazeres domï¿½sticos etc.) por motivo da prï¿½pria saï¿½de
+J007 - Algum mï¿½dico jï¿½ deu o diagnï¿½stico de alguma doenï¿½a crï¿½nica, fï¿½sica ou mental, ou doenï¿½a de longa duraï¿½ï¿½o (de mais de 6 meses de duraï¿½ï¿½o) a ___
+J01101 - Quando ____ consultou um mï¿½dico pela ï¿½ltima vez
+N00101 - Considerando saï¿½de como um estado de bem-estar fï¿½sico e mental, e nï¿½o somente a ausï¿½ncia de doenï¿½as, como vocï¿½ avalia o seu estado de saï¿½de? 
+N010 - Nas duas ï¿½ltimas semanas, com que frequï¿½ncia o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente ï¿½ noite ou dormir mais do que de costume?
+N011 - Nas duas ï¿½ltimas semanas, com que frequï¿½ncia o(a) Sr(a) teve problemas por nï¿½o se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? 
+N012 - Nas duas ï¿½ltimas semanas, com que frequï¿½ncia o(a) Sr(a) teve pouco interesse ou nï¿½o senitiu prazer em fazer as coisas? 
+N016 - Nas duas ï¿½ltimas semanas, com que frequï¿½ncia o(a) Sr(a) se sentiu deprimido(a), ï¿½pra baixoï¿½ ou sem perspectiva?
+P00901 - Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, carï¿½ ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha? 
 P01101 - Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito, bode, ovelha etc.)? 
-P02001 - Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata ou refresco em pó ? 
+P02001 - Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata ou refresco em pï¿½ ? 
 P018 - Em quantos dias da semana o(a) Sr(a) costuma comer frutas? 
 P02002 - Em quantos dias da semana o(a) Sr(a) costuma tomar refrigerante? 
 P02501 - Em quantos dias da semana o(a) Sr(a) costuma comer alimentos doces como biscoito/bolacha recheado, chocolate, gelatina, balas e outros?
-P02602 - Em quantos dias da semana o(a) Sr(a) costuma substituir a refeição do almoço por lanches rápidos como sanduíches, salgados, pizza, cachorro quente, etc? 
-P02601 - Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é:
-P04501 - Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão? 
-P04502 - Em um dia, quantas horas do seu tempo livre (excluindo o trabalho), o(a) Sr(a) costuma usar computador, tablet ou celular para lazer, tais como: utilizar redes sociais, para ver notícias, vídeos, jogar etc? 
-P06701 - O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)? 
-P068 - Com que frequência alguém fuma dentro do seu domicílio? 
-Q00201 - Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)? 
-Q03001 - Algum médico já lhe deu o diagnóstico de diabetes? 
-Q060 - Algum médico já lhe deu o diagnóstico de colesterol alto? 
-Q06306 - Algum médico já lhe deu o diagnóstico de uma doença do coração, tal como infarto, angina, insuficiência cardíaca ou outra?
-Q06307 - Infarto
-Q06308 -  Angina 
-Q06309 - Insuficiência cardíaca 
-Q06310 - Arritmia 
-Q06311 - Outra
-Q064 - Que idade o(a) Sr(a) tinha no primeiro diagnóstico da doença do coração? 
-Q06506 - Faz atualmente por causa da doença do coração: Dieta?
-Q06507 - Faz atualmente por causa da doença do coração: prática de atividade física regular?
-Q06508 - Faz atualmente por causa da doença do coração: toma medicamentos regularmente?
-Q06509 - Faz atualmente por causa da doença do coração acompanhamento regular?
-Q06601 - O(A) Sr(a) já fez alguma cirurgia de ponte de safena ou cateterismo com colocação de stent ou angioplastia?
-Q067 - Em geral, em que grau a doença do coração limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)?
-Q068 - Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?
-Q11006 - Algum médico ou profissional de saúde (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno de ansiedade, síndrome do pânico, esquizofrenia, transtorno bipolar, psicose ou TOC (Transtorno Obsessivo Compulsivo) etc? 
-Q128 - Algum médico já lhe deu algum diagnóstico de outra doença crônica (física ou mental) ou doença de longa duração (de mais de 6 meses de duração)? 
-T001 - O (a) Sr. (a) está com tosse há três semanas ou mais? 
-H001 - Quando foi a última vez que o(a) sr(a) consultou com um(a) médico(a)?
-H002 - Essa consulta foi o seu primeiro atendimento com esse(a) médico(a)?
-H003 - Por qual motivo o(a) sr(a) precisou consultar com um(a) médico(a)
-H004 - Onde procurou o atendimento médico por este motivo?
-H010 - É difícil para você conseguir atendimento médico no(a) "serviço de saúde quando pensa que é necessário?
-Escolaridade - Descrição não disponível
-Renda - Descrição não disponível
-Quant_trabalhos - Descrição não disponível
-Horas_trabalhadas - Descrição não disponível
-Temporariamente_afastado - Descrição não disponível
-Mobilidade_auxiliar - Descrição não disponível
-Avaliacao_plano - Descrição não disponível
-Plano_publico - Descrição não disponível
-Cobertura_plano - Descrição não disponível
-Exposicao_quimica - Descrição não disponível
-Exposicao_ruido - Descrição não disponível
-Exposicao_lixo - Descrição não disponível
-Exposicao_minerio - Descrição não disponível
-Dor_peito - Descrição não disponível
-Inicio_tabagismo - Descrição não disponível
-Tempo_parou_fumar - Descrição não disponível
-Intensidade_fumo - Descrição não disponível
-Doses_semanais - Descrição não disponível
-Quant_doses_alcool_semanal - Descrição não disponível
+P02602 - Em quantos dias da semana o(a) Sr(a) costuma substituir a refeiï¿½ï¿½o do almoï¿½o por lanches rï¿½pidos como sanduï¿½ches, salgados, pizza, cachorro quente, etc? 
+P02601 - Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal ï¿½:
+P027 - Com que frequï¿½ncia o(a) Sr(a) costuma consumir alguma bebida alcoï¿½lica?
+P034 - Nos ï¿½ltimos trï¿½s meses, o(a) Sr(a) praticou algum tipo de exercï¿½cio fï¿½sico ou esporte? 
+P04501 - Em mï¿½dia, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisï¿½o? 
+P04502 - Em um dia, quantas horas do seu tempo livre (excluindo o trabalho), o(a) Sr(a) costuma usar computador, tablet ou celular para lazer, tais como: utilizar redes sociais, para ver notï¿½cias, vï¿½deos, jogar etc? 
+P050 - Atualmente, o(a) Sr(a) fuma algum produto do tabaco? 
+P06701 - O(a) Sr(a) usa aparelhos eletrï¿½nicos com nicotina lï¿½quida ou folha de tabaco picado (cigarro eletrï¿½nico, narguilï¿½ eletrï¿½nico, cigarro aquecido ou outro dispositivo eletrï¿½nico para fumar ou vaporizar)? 
+P068 - Com que frequï¿½ncia alguï¿½m fuma dentro do seu domicï¿½lio? 
+Q00101 - Quando foi a ï¿½ltima vez que o (a) Sr(a) teve sua pressï¿½o arterial medida?
+Q02901 - Quando foi a ï¿½ltima vez que o(a) Sr(a) fez exame de sangue para medir a glicemia, isto ï¿½, o aï¿½ï¿½car no sangue? 
+Q05901 - Quando foi a ï¿½ltima vez que o(a) Sr(a) fez exame de sangue para medir o colesterol e triglicerï¿½deos? 
+Q06306 - Algum mï¿½dico jï¿½ lhe deu o diagnï¿½stico de uma doenï¿½a do coraï¿½ï¿½o, tal como infarto, angina, insuficiï¿½ncia cardï¿½aca ou outra?
+Q068 - Algum mï¿½dico jï¿½ lhe deu o diagnï¿½stico de AVC (Acidente Vascular Cerebral) ou derrame?
+Q11006 - Algum mï¿½dico ou profissional de saï¿½de (como psiquiatra ou psicï¿½logo) jï¿½ lhe deu o diagnï¿½stico de outra doenï¿½a mental, como transtorno de ansiedade, sï¿½ndrome do pï¿½nico, esquizofrenia, transtorno bipolar, psicose ou TOC (Transtorno Obsessivo Compulsivo) etc? 
+Q128 - Algum mï¿½dico jï¿½ lhe deu algum diagnï¿½stico de outra doenï¿½a crï¿½nica (fï¿½sica ou mental) ou doenï¿½a de longa duraï¿½ï¿½o (de mais de 6 meses de duraï¿½ï¿½o)? 
+T001 - O (a) Sr. (a) estï¿½ com tosse hï¿½ trï¿½s semanas ou mais? 
+H001 - Quando foi a ï¿½ltima vez que o(a) sr(a) consultou com um(a) mï¿½dico(a)?
 
 
-VARIÁVEIS COM DADOS FALTANTES:
-------------------------------------------------------------
+VARIÁVEIS COM DADOS FALTANTES (ORDENADAS POR QUANTIDADE):
+------------------------------------------------------------------------------------------
 Variável        Descrição                                           Faltantes  % Faltantes
 ------------------------------------------------------------------------------------------
+E01605          ...recebia/fazia normalmente nesse trabalho rendim     24,388      99.98%
+E01804          Qual era o rendimento bruto mensal ou retirada que     24,373      99.92%
+E008            A doenï¿½a ou acidente foi relacionado ao trabalho     24,283      99.55%
+E014011         Trabalhador nï¿½o remunerado em ajuda a membro do      24,247      99.41%
+E01604          Qual era o rendimento bruto mensal ou retirada que     24,240      99.38%
+E01603          ...recebia/fazia normalmente nesse trabalho rendim     24,240      99.38%
+P051            E no passado, o(a) Sr(a) fumou algum produto do ta     24,152      99.02%
+E006011         Na semana de ___ a ___ (semana de referï¿½ncia), p     24,063      98.65%
+D00301          Qual ï¿½ o curso que frequenta                         23,705      97.18%
+E01801          ...recebia/fazia normalmente nesse(s) outro(s) tra     23,669      97.04%
+E01802          Qual era o rendimento bruto mensal ou retirada que     23,669      97.04%
+G062            ____________ faz uso de bengala, muletas ou andado     23,656      96.98%
+G060            ____________ faz uso de cadeira de rodas?              23,656      96.98%
+E019            Quantas horas ___ trabalhava normalmente, por sema     23,652      96.97%
+Q06308           Angina                                                22,723      93.16%
+Q06309          Insuficiï¿½ncia cardï¿½aca                             22,723      93.16%
+Q06310          Arritmia                                               22,723      93.16%
+Q06601          O(A) Sr(a) jï¿½ fez alguma cirurgia de ponte de sa     22,723      93.16%
+Q06509          Faz atualmente por causa da doenï¿½a do coraï¿½ï¿½     22,723      93.16%
+Q06508          Faz atualmente por causa da doenï¿½a do coraï¿½ï¿½     22,723      93.16%
+Q06307          Infarto                                                22,723      93.16%
+Q064            Que idade o(a) Sr(a) tinha no primeiro diagnï¿½sti     22,723      93.16%
+Q06506          Faz atualmente por causa da doenï¿½a do coraï¿½ï¿½     22,723      93.16%
+Q067            Em geral, em que grau a doenï¿½a do coraï¿½ï¿½o li     22,723      93.16%
+Q06311          Outra                                                  22,723      93.16%
+Q06507          Faz atualmente por causa da doenï¿½a do coraï¿½ï¿½     22,723      93.16%
+J00402           Qual foi o principal motivo de saï¿½de que impedi     21,505      88.16%
+J00404          Este motivo de saï¿½de estava relacionado ao traba     21,505      88.16%
+H010            ï¿½ difï¿½cil para vocï¿½ conseguir atendimento mï     21,446      87.92%
+P05413          Em mï¿½dia, quanto fuma por dia ou por semana Char     21,155      86.73%
+P05419          Em mï¿½dia, quanto fuma por dia ou por semana Outr     21,155      86.73%
+P05416          Em mï¿½dia, quanto fuma por dia ou por semana Narg     21,155      86.73%
+P05401          Em mï¿½dia, quanto fuma por dia ou por semana Ciga     21,155      86.73%
+P05410          Em mï¿½dia, quanto fuma por dia ou por semana Cach     21,155      86.73%
+P05404          Em mï¿½dia, quanto fuma por dia ou por semana Ciga     21,155      86.73%
+P05407          Em mï¿½dia, quanto fuma por dia ou por semana Ciga     21,155      86.73%
+N008            O(A) Sr(a) pode me mostrar onde geralmente sente e     21,032      86.22%
+I00403          O plano de saï¿½de (ï¿½nico ou principal) de assis     20,907      85.71%
+I004            O plano de saï¿½de mï¿½dico (ï¿½nico ou principal)     20,907      85.71%
+I00401          O plano de saï¿½de (ï¿½nico ou principal) de assis     20,907      85.71%
+I00402          O plano de saï¿½de (ï¿½nico ou principal) de assis     20,907      85.71%
+I001031         Nï¿½ de ordem do titular                               20,012      82.04%
+I006             ___ considera este plano de saï¿½de:                  19,784      81.11%
+I00103          Quem ï¿½ o titular do plano de saï¿½de mï¿½dico (ï     19,784      81.11%
+P02801          Quantos dias por semana o(a) Sr(a) costuma consumi     19,173      78.60%
+H004            Onde procurou o atendimento mï¿½dico por este moti     16,531      67.77%
+H003            Por qual motivo o(a) sr(a) precisou consultar com      16,531      67.77%
+P029            Em geral, no dia que o(a) Sr(a) bebe, quantas dose     16,518      67.72%
+P03702          Em geral, no dia que o(a) Sr(a) pratica (praticava     16,327      66.94%
+P03701          Em geral, no dia que o(a) Sr(a) pratica exercï¿½ci     16,327      66.94%
+P05901          Nï¿½mero de anos que parou de fumar                    16,279      66.74%
+P05903          Nï¿½mero de semanas que parou de fumar                 16,279      66.74%
+P05902          Nï¿½mero de meses que parou de fumar                   16,279      66.74%
+P05904          Nï¿½mero de dias que parou de fumar                    16,279      66.74%
+P035            Quantos dias por semana o(a) Sr(a) costuma  (costu     16,118      66.08%
+P053            Que idade o(a) Sr(a) tinha quando comeï¿½ou a fuma     14,028      57.51%
+E01602          Qual era o rendimento bruto mensal ou retirada que     12,249      50.22%
+E01601          ...recebia/fazia normalmente nesse trabalho rendim     12,249      50.22%
+E005            Na semana de ___ a ___ (semana de referï¿½ncia), _     12,082      49.53%
+E017            Quantas horas ___ trabalhava normalmente, por sema     12,018      49.27%
+M011021         No(s) seu(s) trabalho(s), o(a) Sr(a) estï¿½ expost     12,018      49.27%
+M011011          No(s) seu(s) trabalho(s), o(a) Sr(a) estï¿½(estav     12,018      49.27%
+M011071         No(s) seu(s) trabalho(s), o(a) Sr(a) estï¿½ expost     12,018      49.27%
+M011051         No(s) seu(s) trabalho(s), o(a) Sr(a) estï¿½ expost     12,018      49.27%
 E011            Quantos trabalhos ___tinha na semana de ___ a ___      12,018      49.27%
-P00403          Altura - Informada (em cm)
-(3 inteiros)                5,632      23.09%
-P00103          Peso - Informado (em kg)
-(3 inteiros e 1 casa dec      2,196       9.00%
-Faixa_ex_fisico Descrição não disponível                                   69       0.28%
-P00104          Peso - Final (em kg)
-(3 inteiros e 1 casa decimal         27       0.11%
-P00404          Altura - Final (em cm)
-(3 inteiros)                       27       0.11%
-M00203           Morador selecionado está apto para responder?              3       0.01%
+E004            Na semana de ___ a ___ (semana de referï¿½ncia), _     11,938      48.94%
+E003            Na semana de ___ a ___ (semana de referï¿½ncia), _     11,182      45.84%
+E002            Na semana de ___a___ (semana de referï¿½ncia), ___     11,109      45.54%
+H002            Essa consulta foi o seu primeiro atendimento com e      9,129      37.43%
+J00801          Alguma dessas doenï¿½as limita de alguma forma sua      8,359      34.27%
+P00403          Altura - Informada (em cm)(3 inteiros)                  5,632      23.09%
+D014            ___concluiu este curso que frequentou                   4,441      18.21%
+D00901          Qual foi o curso mais elevado que ___frequentou         3,454      14.16%
+P052            E no passado, o(a) Sr(a) fumou algum produto do ta      3,237      13.27%
+P00103          Peso - Informado (em kg)(3 inteiros e 1 casa decim      2,196       9.00%
+Q060            Algum mï¿½dico jï¿½ lhe deu o diagnï¿½stico de col      1,584       6.49%
+Q03001          Algum mï¿½dico jï¿½ lhe deu o diagnï¿½stico de dia      1,296       5.31%
+N004            Quando o(a) Sr(a) sobe uma ladeira, um lance de es        736       3.02%
+N005            Quando o(a) Sr(a) caminha em lugar plano, em veloc        736       3.02%
+D008            Anteriormente ___frequentou escola ou creche              687       2.82%
+Q00201          Algum mï¿½dico jï¿½ lhe deu o diagnï¿½stico de hip        216       0.89%
+P00104          Peso - Final (em kg)(3 inteiros e 1 casa decimal)          27       0.11%
+P00404          Altura - Final (em cm)(3 inteiros)                         27       0.11%
+M00203           Morador selecionado estï¿½ apto para responder?            3       0.01%

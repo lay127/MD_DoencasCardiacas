@@ -1,0 +1,84 @@
+﻿Coluna,Significado,Total Outliers,% do Total
+V0026,Tipo de situaêêo censitêria,0,0.00%
+V0031,Tipo de êrea,0,0.00%
+B001,O seu domicêlio estê cadastrado na unidade de saêde da famêlia ,0,0.00%
+C006,Sexo,0,0.00%
+C011,Qual ê o estado civil de ___? ,0,0.00%
+F001011,"Em (mês da pesquisa) ___ recebia normalmente rendimento de aposentadoria ou pensêo de instituto de previdência federal (INSS), estadual, municipal, ou do governo federal, estadual, municipal?",0,0.00%
+J007,"Algum mêdico jê deu o diagnêstico de alguma doenêa crênica, fêsica ou mental, ou doenêa de longa duraêêo (de mais de 6 meses de duraêêo) a ___",0,0.00%
+J00801,"Alguma dessas doenêas limita de alguma forma suas atividades habituais (trabalhar, ir ê escola, brincar, afazeres domêsticos, etc.)",0,0.00%
+P04501,"Em mêdia, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisêo? ",0,0.00%
+P018,Em quantos dias da semana o(a) Sr(a) costuma comer frutas? ,0,0.00%
+Q00201,Algum mêdico jê lhe deu o diagnêstico de hipertensêo arterial (pressêo alta)? ,0,0.00%
+P04502,"Em um dia, quantas horas do seu tempo livre (excluindo o trabalho), o(a) Sr(a) costuma usar computador, tablet ou celular para lazer, tais como: utilizar redes sociais, para ver notêcias, vêdeos, jogar etc? ",0,0.00%
+P01101,"Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito, bode, ovelha etc.)? ",0,0.00%
+P00901,"Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, carê ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha? ",0,0.00%
+H002,Essa consulta foi o seu primeiro atendimento com esse(a) mêdico(a)?,0,0.00%
+H001,Quando foi a êltima vez que o(a) sr(a) consultou com um(a) mêdico(a)?,0,0.00%
+Escolaridade,Descrição não encontrada,0,0.00%
+C009,Cor ou raêa,2,0.01%
+Horas_trabalhadas,Descrição não encontrada,5,0.02%
+P06701,"O(a) Sr(a) usa aparelhos eletrênicos com nicotina lêquida ou folha de tabaco picado (cigarro eletrênico, narguilê eletrênico, cigarro aquecido ou outro dispositivo eletrênico para fumar ou vaporizar)? ",32,0.13%
+C008,Idade do morador na data de referência,41,0.17%
+Quant_trabalhos,Descrição não encontrada,85,0.35%
+E008,A doenêa ou acidente foi relacionado ao trabalho?,109,0.45%
+P00404,Altura - Final (em cm)(3 inteiros),156,0.64%
+P00403,Altura - Informada (em cm)(3 inteiros),167,0.68%
+P02601,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal ê:",192,0.79%
+J00101,"Considerando saêde como um estado de bem-estar fêsico e mental, e nêo somente a ausência de doenêas, como ê o estado de saêde de _____________? ",257,1.05%
+N00101,"Considerando saêde como um estado de bem-estar fêsico e mental, e nêo somente a ausência de doenêas, como você avalia o seu estado de saêde? ",268,1.10%
+E006011,"Na semana de ___ a ___ (semana de referência), por que motivo ___ estava afastado desse trabalho",329,1.35%
+P00103,Peso - Informado (em kg)(3 inteiros e 1 casa decimal),354,1.45%
+M00203, Morador selecionado estê apto para responder? ,403,1.65%
+P00104,Peso - Final (em kg)(3 inteiros e 1 casa decimal),433,1.78%
+J001,"De um modo geral, como ê o estado de saêde de________",506,2.07%
+Mobilidade_auxiliar,Descrição não encontrada,736,3.02%
+E011,Quantos trabalhos ___tinha na semana de ___ a ___ ,740,3.03%
+F007011,"Em (mês da pesquisa), ___ recebia normalmente rendimento de pensêo alimentêcia, doaêêo ou mesada em dinheiro de pessoa que nêo morava no domicêlio?",758,3.11%
+Exposicao_lixo,Descrição não encontrada,780,3.20%
+Q068,Algum mêdico jê lhe deu o diagnêstico de AVC (Acidente Vascular Cerebral) ou derrame?,809,3.32%
+T001,O (a) Sr. (a) estê com tosse hê três semanas ou mais? ,889,3.64%
+F008011,"Em (mês da pesquisa), ___ recebia normalmente rendimento de aluguel ou arrendamento?",1142,4.68%
+Q11006,"Algum mêdico ou profissional de saêde (como psiquiatra ou psicêlogo) jê lhe deu o diagnêstico de outra doenêa mental, como transtorno de ansiedade, sêndrome do pênico, esquizofrenia, transtorno bipolar, psicose ou TOC (Transtorno Obsessivo Compulsivo) etc? ",1204,4.94%
+N012,"Nas duas êltimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou nêo senitiu prazer em fazer as coisas? ",1222,5.01%
+N016,"Nas duas êltimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), êpra baixoê ou sem perspectiva?",1285,5.27%
+Exposicao_minerio,Descrição não encontrada,1366,5.60%
+Exposicao_quimica,Descrição não encontrada,1417,5.81%
+Q064,Que idade o(a) Sr(a) tinha no primeiro diagnêstico da doenêa do coraêêo? ,1643,6.74%
+P02501,"Em quantos dias da semana o(a) Sr(a) costuma comer alimentos doces como biscoito/bolacha recheado, chocolate, gelatina, balas e outros?",1649,6.76%
+Q06509,Faz atualmente por causa da doenêa do coraêêo acompanhamento regular?,1669,6.84%
+Q067,"Em geral, em que grau a doenêa do coraêêo limita as suas atividades habituais (tais como trabalhar, realizar afazeres domêsticos etc.)?",1669,6.84%
+Q06311,Outra,1669,6.84%
+Q06507,Faz atualmente por causa da doenêa do coraêêo: prêtica de atividade fêsica regular?,1669,6.84%
+Q06508,Faz atualmente por causa da doenêa do coraêêo: toma medicamentos regularmente?,1669,6.84%
+Q06601,O(A) Sr(a) jê fez alguma cirurgia de ponte de safena ou cateterismo com colocaêêo de stent ou angioplastia?,1669,6.84%
+Q06306,"Algum mêdico jê lhe deu o diagnêstico de uma doenêa do coraêêo, tal como infarto, angina, insuficiência cardêaca ou outra?",1669,6.84%
+Q06308, Angina ,1669,6.84%
+Q06307,Infarto,1669,6.84%
+Q06506,Faz atualmente por causa da doenêa do coraêêo: Dieta?,1669,6.84%
+Q06309,Insuficiência cardêaca ,1669,6.84%
+Q06310,Arritmia ,1669,6.84%
+H003,Por qual motivo o(a) sr(a) precisou consultar com um(a) mêdico(a),1881,7.71%
+N011,"Nas duas êltimas semanas, com que frequência o(a) Sr(a) teve problemas por nêo se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? ",2001,8.20%
+P02002,Em quantos dias da semana o(a) Sr(a) costuma tomar refrigerante? ,2197,9.01%
+Exposicao_ruido,Descrição não encontrada,2262,9.27%
+Q128,Algum mêdico jê lhe deu algum diagnêstico de outra doenêa crênica (fêsica ou mental) ou doenêa de longa duraêêo (de mais de 6 meses de duraêêo)? ,2366,9.70%
+Renda,Descrição não encontrada,2368,9.71%
+P02602,"Em quantos dias da semana o(a) Sr(a) costuma substituir a refeiêêo do almoêo por lanches rêpidos como sanduêches, salgados, pizza, cachorro quente, etc? ",2418,9.91%
+J00404,Este motivo de saêde estava relacionado ao trabalho,2887,11.84%
+J002," Nas duas êltimas semanas, ___ deixou de realizar quaisquer de suas atividades habituais (trabalhar, ir ê escola, brincar, afazeres domêsticos etc.) por motivo da prêpria saêde",2887,11.84%
+J00402, Qual foi o principal motivo de saêde que impediu ___ de realizar suas atividades habituais nas duas êltimas semanas ,2887,11.84%
+H010,"ê difêcil para você conseguir atendimento mêdico no(a) ""serviêo de saêdeê quando pensa que ê necessêrio?",2946,12.08%
+Q03001,Algum mêdico jê lhe deu o diagnêstico de diabetes? ,2983,12.23%
+Doses_semanais,Descrição não encontrada,3091,12.67%
+Intensidade_fumo,Descrição não encontrada,3237,13.27%
+VDF001,"Em (mês da pesquisa), _______ recebia normalmente algum juro de caderneta de poupanêa e de outras aplicaêêes financeiras, dividendos, programas sociais, seguro-desemprego, seguro defeso ou outros rendimentos? ",3479,14.26%
+Plano_publico,Descrição não encontrada,3485,14.29%
+Cobertura_plano,Descrição não encontrada,3485,14.29%
+N010,"Nas duas êltimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente ê noite ou dormir mais do que de costume?",3501,14.35%
+P068,Com que frequência alguêm fuma dentro do seu domicêlio? ,4017,16.47%
+H004,Onde procurou o atendimento mêdico por este motivo?,4671,19.15%
+J01101,Quando ____ consultou um mêdico pela êltima vez,4750,19.47%
+Q060,Algum mêdico jê lhe deu o diagnêstico de colesterol alto? ,5158,21.15%
+P02001,Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata ou refresco em pê ? ,5826,23.88%
+C00301,Nêmero de ordem do morador,5893,24.16%
