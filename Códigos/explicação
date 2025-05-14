@@ -1,0 +1,25 @@
+Metodologia
+
+1. Definição do domínio de problema
+
+Análise exploratória da base de dados PNS 2019: 
+- gráficos de distribuição de frequência relativa e acumulada, teste de aderência qui-quadrado.
+Definição do escopo.
+
+2. Seleção de atributos
+
+Modelo conceitual CAPTO (dimesões, aspectos e atributos);
+Seleção conceitual de atributos (101 atributos para compor o conjunto de dados alvo);
+Análise descritiva do conjunto de dados (table one);
+
+3. Pré-processamento e preparação dos dados
+
+1- Visualização dos dados (boxplot, histogramas, gráficos de dispersão);
+2- Análise e eliminação de outliers;
+3- Produto cartesiano para combinação de atributos;
+4- Tratamento de dados faltantes: preenchimento de dados vazios e exclusão de dados ausentes;
+5- Codificação de variáveis categóricas;
+6- Discretização (faixa de valores) de variáveis contínuas;
+7- Verificação de dados duplicados e inconsistentes;
+8- Teste de correlação de atributos;
+9- Balanceamento de classes.
