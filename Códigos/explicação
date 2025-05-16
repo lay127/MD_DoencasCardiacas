@@ -9,7 +9,7 @@ Definição do escopo.
 2. Seleção de atributos e coleta de dados
 
 Modelo conceitual CAPTO (dimesões, aspectos e atributos);
-Seleção conceitual de atributos (101 atributos para compor o conjunto de dados alvo);
+Seleção conceitual de atributos (94 atributos para compor o conjunto de dados alvo);
 Análise descritiva do conjunto de dados (table one);
 
 3. Pré-processamento e preparação dos dados
