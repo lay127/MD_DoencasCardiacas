@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Página-1" id="K5eOA4L-gDZK-XUdb7QI">
-    <mxGraphModel dx="1812" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4927" dy="3025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1175,6 +1175,81 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-106" y="309" as="sourcePoint" />
             <mxPoint x="-56" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.482;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-gCqmVh1PKqVeBoYZ1ig-2" target="-gCqmVh1PKqVeBoYZ1ig-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="-155" as="sourcePoint" />
+            <mxPoint x="1200" y="-275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-2" value="Doenças&amp;nbsp;&lt;div&gt;Cardíacas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="-163.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-3" value="Condições Físicas&amp;nbsp;&lt;div&gt;e Mentais&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="-318" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-4" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.002;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-gCqmVh1PKqVeBoYZ1ig-2" target="-gCqmVh1PKqVeBoYZ1ig-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1229" y="-143.86" as="sourcePoint" />
+            <mxPoint x="1389" y="-143.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-5" value="Genética" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1382" y="-158.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-7" value="Autoavaliação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1146" y="-11" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.538;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-gCqmVh1PKqVeBoYZ1ig-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="-40" as="sourcePoint" />
+            <mxPoint x="1200" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.403;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.982;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-gCqmVh1PKqVeBoYZ1ig-11" target="-gCqmVh1PKqVeBoYZ1ig-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1318" y="-44" as="sourcePoint" />
+            <mxPoint x="1228" y="-130.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-11" value="Hábitos&lt;div&gt;de Saúde&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="-51" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-13" value="Condições&lt;div&gt;Socio-Econômicas&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="-61" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.6;exitY=0.163;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.022;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-gCqmVh1PKqVeBoYZ1ig-13" target="-gCqmVh1PKqVeBoYZ1ig-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="-60" as="sourcePoint" />
+            <mxPoint x="1175" y="-130.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-15" value="Hábitos&lt;div&gt;Alimentares&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="935" y="-164" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-gCqmVh1PKqVeBoYZ1ig-15" target="-gCqmVh1PKqVeBoYZ1ig-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1025" y="-139.66683937823836" as="sourcePoint" />
+            <mxPoint x="1173" y="-141.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-19" value="Antropometria" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="-263" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-20" value="Condições do&lt;div&gt;Indivíduo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1278" y="-266" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.018;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-gCqmVh1PKqVeBoYZ1ig-19" target="-gCqmVh1PKqVeBoYZ1ig-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="-232.99" as="sourcePoint" />
+            <mxPoint x="1177.9924344491656" y="-156.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-gCqmVh1PKqVeBoYZ1ig-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.955;exitY=0.069;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-gCqmVh1PKqVeBoYZ1ig-2" target="-gCqmVh1PKqVeBoYZ1ig-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1223" y="-154" as="sourcePoint" />
+            <mxPoint x="1310" y="-300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
