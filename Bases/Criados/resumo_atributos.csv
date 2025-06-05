@@ -1,0 +1,53 @@
+﻿Atributo;Descrição;Valores Únicos;Qtd Valores Únicos
+V0001;Atributo Criado: V0001;21, 22, 23, 24, 25... (+8 mais);13
+V0026;Tipo de situação censitária;1, 2;2
+V0031;Tipo de área;1, 2, 3, 4;4
+B001;O seu domicílio está cadastrado na unidade de saúde da família;2.0, 1.0, 3.0;3
+C006;Sexo;2.0, 1.0;2
+C008;Idade do morador na data de referência;54.0, 41.0, 62.0, 51.0, 42.0... (+26 mais);31
+C009;Cor ou raça;2, 3, 0, 1;4
+C011;Qual é o estado civil de ___?;3.0, 1.0, 2.0, 4.0;4
+J001;De um modo geral, como é o estado de saúde de________;3.0, 2.0, 4.0, 1.0, 5.0;5
+J00101;Considerando saúde como um estado de bem-estar físico e mental, e não somente a ausência de doenças, como é o estado de saúde de _____________?;2.0, 1.0, 4.0, 3.0, 5.0;5
+J01101;Quando ____ consultou um médico pela última vez;1.0, 3.0, 4.0, 2.0, 5.0;5
+N010;Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?;1.0, 2.0, 4.0, 3.0;4
+N011;Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia?;1.0, 2.0, 3.0, 4.0;4
+N012;Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas?;1.0, 2.0, 3.0, 4.0;4
+N016;Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?;1.0, 2.0, 3.0, 4.0;4
+P00901;Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, cará ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha?;2.0, 1.0, 3.0, 6.0, 0.0... (+3 mais);8
+P01101;Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito, bode, ovelha etc.)?;2.0, 5.0, 1.0, 4.0, 3.0... (+3 mais);8
+P02001;Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata ou refresco em pó ?;0.0, 1.0, 6.0, 2.0, 4.0... (+3 mais);8
+P018;Em quantos dias da semana o(a) Sr(a) costuma comer frutas?;5.0, 3.0, 7.0, 6.0, 4.0... (+3 mais);8
+P02002;Em quantos dias da semana o(a) Sr(a) costuma tomar refrigerante?;1.0, 4.0, 0.0, 3.0, 2.0... (+3 mais);8
+P02501;Em quantos dias da semana o(a) Sr(a) costuma comer alimentos doces como biscoito/bolacha recheado, chocolate, gelatina, balas e outros?;0.0, 1.0, 2.0, 3.0, 5.0... (+3 mais);8
+P02602;Em quantos dias da semana o(a) Sr(a) costuma substituir a refeição do almoço por lanches rápidos como sanduíches, salgados, pizza, cachorro quente, etc?;0.0, 3.0, 1.0, 2.0, 5.0... (+3 mais);8
+P02601;Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é:;3.0, 1.0, 4.0, 5.0, 2.0;5
+P04501;Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?;6.0, 2.0, 4.0, 3.0, 1.0... (+1 mais);6
+P04502;Em um dia, quantas horas do seu tempo livre (excluindo o trabalho), o(a) Sr(a) costuma usar computador, tablet ou celular para lazer, tais como: utilizar redes sociais, para ver notícias, vídeos, jogar etc?;1.0, 2.0, 3.0, 4.0, 6.0... (+1 mais);6
+P06701;O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?;4.0, 2.0, 3.0, 1.0;4
+P068;Com que frequência alguém fuma dentro do seu domicílio?;5.0, 1.0, 2.0, 4.0, 3.0;5
+Q00201;Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)?;2.0, 1.0;2
+Q03001;Algum médico já lhe deu o diagnóstico de diabetes?;2.0, 1.0;2
+Q060;Algum médico já lhe deu o diagnóstico de colesterol alto?;1.0, 2.0;2
+Q06306;Algum médico já lhe deu o diagnóstico de uma doença do coração, tal como infarto, angina, insuficiência cardíaca ou outra?;2.0, 1.0;2
+Q068;Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?;2.0, 1.0;2
+Q11006;Algum médico ou profissional de saúde (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno de ansiedade, síndrome do pânico, esquizofrenia, transtorno bipolar, psicose ou TOC (Transtorno Obsessivo Compulsivo) etc?;2.0, 1.0;2
+Q128;Algum médico já lhe deu algum diagnóstico de outra doença crônica (física ou mental) ou doença de longa duração (de mais de 6 meses de duração)?;2.0, 1.0;2
+Escolaridade;Atributo Criado: Escolaridade;2, 3, 5, 4, 0... (+1 mais);6
+Renda;Atributo Criado: Renda;4, 2, 5, 0, 1... (+1 mais);6
+Quantidade_de_trabalhos;Atributo Criado: Quantidade_de_trabalhos;1, 0, 2, 3;4
+Jornada_de_Trabalho;Atributo Criado: Jornada_de_Trabalho;1, 0, 2;3
+Mobilidade_assistida;Atributo Criado: Mobilidade_assistida;2, 0, 3, 1;4
+Avaliacao_do_plano;Atributo Criado: Avaliacao_do_plano;0, 2, 1, 3, 4;5
+Instituicao_do_plano;Atributo Criado: Instituicao_do_plano;0.0, 1.0, 2.0;3
+Cobertura_do_plano;Atributo Criado: Cobertura_do_plano;0.0, 3.0, 2.0, 1.0, 4.0;5
+Exposicao_quimica;Atributo Criado: Exposicao_quimica;2, 1;2
+Exposicao_ruido;Atributo Criado: Exposicao_ruido;2, 1;2
+Exposicao_lixo;Atributo Criado: Exposicao_lixo;2, 1;2
+Exposicao_minerio;Atributo Criado: Exposicao_minerio;2, 1;2
+Atividade_fisica_semanal;Atributo Criado: Atividade_fisica_semanal;0, 2, 3, 1;4
+Inicio_tabagismo;Atributo Criado: Inicio_tabagismo;0, 1, 2, 3;4
+Tempo_parou_fumar;Atributo Criado: Tempo_parou_fumar;0, 3, 2, 1;4
+Intensidade_fumo;Atributo Criado: Intensidade_fumo;0, 2, 3, 1;4
+Consumo_de_alcool;Atributo Criado: Consumo_de_alcool;0, 3, 2, 1, 4;5
+IMC;Atributo Criado: IMC;3, 2, 1, 0;4
